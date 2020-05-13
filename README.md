@@ -1,6 +1,6 @@
 # Criando-aplicacao-web-com-Flutter
 ## Criando um aplicação web com Flutter (usando chrome para rodar)
-### Usando Google Chorme para substituir os emuladores (AVDs)
+### Usando Google Chorme para substituir os emuladores (AVDs) | Rodando Flutter no Chrome
  
 Após desesperadas tentativas de fazer o Flutter rodar nos AVDs do Android Studio, me deparei com esse link:
 https://flutter.dev/docs/get-started/web
